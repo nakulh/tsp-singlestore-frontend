@@ -1,0 +1,21 @@
+#map {
+    height: 720px;
+    width: 100%;
+  }
+  html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#inputForm {
+  width: 60%;
+  margin-left: 20%;
+}
+#invalidFeedback{
+  visibility: hidden;
+}
+#killdrone {
+  margin-left: 20%;
+  margin-top: 10px;
+}
